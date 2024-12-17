@@ -20,4 +20,4 @@ Entitas : https://github.com/sschmid/Entitas.git
 
 运行效果截图:
 
-![image-20241117104353781](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241117104353781.png)
+![image-20241117104353781](F:\Project\NanoECSDemo\image-20241117104353781.png)
